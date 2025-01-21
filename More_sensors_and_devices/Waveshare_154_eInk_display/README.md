@@ -1,6 +1,6 @@
 # Waveshare 1,54 Zoll eInk Display
 
-Das Waveshare 1,54 Zoll ist ein kleines eInk-Display mit 200x200 Pixeln Auflösung. Es unterstützt nur die Farben Schwarz und Weiß.
+Das Waveshare 1,54 Zoll ist ein kleines eInk-Display mit 200x200 Pixeln Auflösung. Es unterstützt nur die Farben Schwarz und Weiß. Dieses Programm demonstriert die Verwendung mit einigen einfachen Zeichenbefehlen.
 
 ## Aufbau
 

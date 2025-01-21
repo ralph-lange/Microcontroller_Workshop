@@ -1,6 +1,6 @@
 # RFID-Reader MFRC522
 
-Der RFID-Reader MFRC522 kann typische RFID-Karten und -Chips für 13,56 MHz auslesen.
+Der RFID-Reader MFRC522 kann typische RFID-Karten und -Chips für 13,56 MHz auslesen. Dieses Programm liest die ID der vor den RFID-Reader gehaltenen Karten bzw. Chips aus und gibt sie über den seriellen Bus aus.
 
 ## Aufbau
 
