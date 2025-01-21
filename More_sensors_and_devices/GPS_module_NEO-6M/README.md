@@ -1,6 +1,6 @@
 # GPS-Modul NEO-6M
 
-Das GPS-Modul NEO-6M ist ein (inzwischen älterer) typischer GPS-Empfänger, der das NMEA-Protokoll unterstützt.
+Das GPS-Modul NEO-6M ist ein (inzwischen älterer) typischer GPS-Empfänger, der das [NMEA-Protokoll](https://de.wikipedia.org/wiki/NMEA_0183) unterstützt.
 
 ## Aufbau
 
