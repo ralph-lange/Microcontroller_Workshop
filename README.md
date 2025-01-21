@@ -30,6 +30,7 @@ Alle Teilnehmerinnen und Teilnehmer erhalten per E-Mail vorab Instruktionen zur 
   * [GPS-Modul NEO-6M](More_sensors_and_devices/GPS_module_NEO-6M/)
   * [Laser-ToF-Sensor VL53L0X](More_sensors_and_devices/Laser_ToF_sensor_VL53L0X/)
   * [RFID-Reader MFRC522](More_sensors_and_devices/RFID_reader_MFRC522/)
+  * [Stepper-Motor](More_sensors_and_devices/Stepper_motor/)
   * [Waveshare 1,54 Zoll eInk Display](More_sensors_and_devices/Waveshare_154_eInk_display/)
 
 ## Weiterführende Hinweise
