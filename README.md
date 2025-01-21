@@ -26,9 +26,10 @@ Alle Teilnehmerinnen und Teilnehmer erhalten per E-Mail vorab Instruktionen zur 
   * [MQTT-Publisher](Chapter_4_Connectivity_and_Cloud/MQTT_publisher/)
   * [ThingSpeak-Sender](Chapter_4_Connectivity_and_Cloud/ThingSpeak_sender/)
 * *Mehr Sensoren und Devices*
-  * []()
-  * []()
-  * []()
+  * [Luftdrucksensor BMP280](More_sensors_and_devices/Barometric_pressure_sensor_BMP280/)
+  * [GPS-Modul NEO-6M](More_sensors_and_devices/GPS_module_NEO-6M/)
+  * [Laser-ToF-Sensor VL53L0X](More_sensors_and_devices/Laser_ToF_sensor_VL53L0X/)
+  * [RFID-Reader MFRC522](More_sensors_and_devices/RFID_reader_MFRC522/)
 
 ## Weiterführende Hinweise
 
