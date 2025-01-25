@@ -4,6 +4,8 @@ Microcontroller-Workshop am 25. Januar 2025 in der Christian-Wagner-Bücherei in
 
 Autor: [Ralph Lange](https://github.com/ralph-lange/)
 
+![](teaser.png)
+
 ## Vorbereitung
 
 Alle Teilnehmerinnen und Teilnehmer erhalten per E-Mail vorab Instruktionen zur Installation der Arduino IDE auf dem eigenen Laptop.
