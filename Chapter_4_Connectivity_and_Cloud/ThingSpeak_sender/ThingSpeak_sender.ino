@@ -2,7 +2,7 @@
 #include <HTTPClient.h>  // Standard library from ESP32 platform.
 
 const char* WIFI_SSID = "My_WiFi_SSID";
-const char* WIFI_PASSOWRD = "My_WiFi_password";
+const char* WIFI_PASSWORD = "My_WiFi_password";
 const char* THING_SPEAK_API_KEY = "";
 const long THING_SPEAK_UPDATE_PERIOD = 15000;  // ThingSpeak limits updates to 15s, i.e., 15000ms.
 
