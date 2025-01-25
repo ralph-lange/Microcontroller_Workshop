@@ -44,7 +44,6 @@ Einige Hinweise zur weiteren Verwendung der Hardware und für eigene Projekte:
 * Bei vielen ESP32-Modulen muss zum Flashen der Boot-Knopf kurz gedrückt werden, wenn in der Arduino IDE nach dem Kompilieren eine Folge von Punkten erscheint.
 * Zur Programmierung gibt es einige Alternativen zur Arduino IDE, z.B. [PlatformIO](https://platformio.org/). Statt C/C++ kann unter anderem auch in MicroPython programmiert werden, vgl. [docs.micropython.org/en/latest/esp32/tutorial/intro.html](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html).
 * Wenn man in einschlägigen Online-Shops nach „Microcontroller Set“, „MCU Sensor Kit“, „Elektronik Starter Kit“ oder ähnlich sucht, so finden sich viele Sets/Kits, die eine geeignete Auswahl an Kabeln, Schaltern, Sensoren, Displays, etc. für weitere Projekte bieten.
-* Beim ESP32C3 Mini kannst du die Pin-Leisten zu Hause selbst anlöten. Überlege dir vorher, ob du sie nach unten (z.B. zum Aufstecken auf eine Steckplatine) oder nach oben (zum Anschluss von Jumper-Kabeln mit Buchsen) anbringen möchtest.
 
 ## Hardware
 
